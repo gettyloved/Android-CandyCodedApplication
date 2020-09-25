@@ -4,10 +4,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,13 +160,29 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="starting the store information activity">
+      <created>1601044992997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601044992997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="starting the store information activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting the store information activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="648" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600983209965">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="648" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.900@0.0.1600.900" timestamp="1600983209965" />
+    <state x="333" y="44" key="CommitChangelistDialog2" timestamp="1601044985335">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="333" y="44" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1601044985335" />
     <state width="1540" height="233" key="GridCell.Tab.0.bottom" timestamp="1601043784474">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -186,5 +199,9 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state width="1540" height="233" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1601043784474" />
+    <state x="392" y="183" key="Vcs.Push.Dialog.v2" timestamp="1601045025830">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1601045025830" />
   </component>
 </project>
