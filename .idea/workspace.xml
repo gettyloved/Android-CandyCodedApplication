@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601224211984</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="starting the store information activity">
+      <created>1601226890725</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601226890726</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,10 +266,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="648" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.900@0.0.1600.900" timestamp="1600983209965" />
-    <state x="333" y="44" key="CommitChangelistDialog2" timestamp="1601224207906">
+    <state x="333" y="44" key="CommitChangelistDialog2" timestamp="1601226978591">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="333" y="44" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1601224207906" />
+    <state x="333" y="44" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1601226978591" />
     <state width="1540" height="233" key="GridCell.Tab.0.bottom" timestamp="1601226861466">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -281,10 +286,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state width="1540" height="233" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1601226861466" />
-    <state x="392" y="183" key="Vcs.Push.Dialog.v2" timestamp="1601224247619">
+    <state x="392" y="183" key="Vcs.Push.Dialog.v2" timestamp="1601226895249">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="392" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1601224247619" />
+    <state x="392" y="183" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1601226895249" />
     <state x="496" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1601221893046">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
